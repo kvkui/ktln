@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="gw-profiler">
-    <dump-factory />
-    <properties-viewer />
-    <settings />
-    <tree-viewer />
-  </component>
-</project>
